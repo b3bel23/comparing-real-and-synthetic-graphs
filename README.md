@@ -217,3 +217,13 @@ Este projeto utiliza conceitos de:
 ## 🎓 Contexto Acadêmico
 
 Projeto desenvolvido para a disciplina de Grafos e Redes Complexas, com foco na análise experimental de redes sintéticas e reais utilizando métricas estruturais e conceitos da Ciência das Redes.
+
+---
+
+  @inproceedings{nr,
+      title = {The Network Data Repository with Interactive Graph Analytics and Visualization},
+      author={Ryan A. Rossi and Nesreen K. Ahmed},
+      booktitle = {AAAI},
+      url={https://networkrepository.com},
+      year={2015}
+  }
